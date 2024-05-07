@@ -1,3 +1,14 @@
+./lib/cola/Cola.java
+./lib/arbolBinarioOrdenado/Entero.java
+./lib/arbolBinarioOrdenado/Estudiante.java
+./lib/arbolBinarioOrdenado/Persona.java
+./lib/arbolBinarioOrdenado/Comparable.java
+./lib/arbolBinarioOrdenado/ArbolBinario.java
+./lib/arbolBinarioOrdenado/Nodo.java
+./lib/arbolBinario/ArbolBinario.java
+./lib/arbolBinario/Nodo.java
+./lib/pilas/pilas/Nodo.java
+./lib/pilas/pilas/Pila.java
 ./miPrincipal/AppArbolAVL.java
 ./miPrincipal/AppArbol.java
 ./miPrincipal/AppArbolBinarioBusqueda.java
